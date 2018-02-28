@@ -1,1 +1,1 @@
-This notebook covers pairwise association rule mining
+The exercises in this notebook covers pairwise association rule mining
